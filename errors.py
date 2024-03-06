@@ -1,0 +1,2 @@
+class BairroNotFoundError(Exception):
+    pass
